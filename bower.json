@@ -1,0 +1,25 @@
+{
+  "name": "javascript-linkify",
+  "version": "0.3.0",
+  "homepage": "http://benalman.com/projects/javascript-linkify/",
+  "authors": [
+    "cowboy"
+  ],
+  "main": "ba-linkify.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "license": "MIT and GPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "docs",
+    "shared",
+    "examples"
+  ]
+}
